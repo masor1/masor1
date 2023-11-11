@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I currently work for Kaspersky on the Safe Kids project<br>🌱 I keep learning Android, Kotlin and programming principles<br>⚡ The more I know, the more I have to learn
+🔭 I currently work for Ozon<br>🌱 I keep learning Android, Kotlin and programming principles<br>⚡ The more I know, the more I have to learn
 
 
 ## 🌐 Socials:
